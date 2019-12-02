@@ -2,6 +2,13 @@
 
 ### Improvement
 * Update core framework.
+
+### Fixed bug
+* Fixed issue - History days value in form in settings.
+* Fixed issue - Properly decoding japanese urls.
+
+### Improvement
+* Update core framework.
 * Update Ad-block module.
 
 ### Fixed bug
